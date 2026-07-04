@@ -13,7 +13,7 @@ load_dotenv()
 
 st.write('hello')
 
-from zai import ZhipuAiClient
+#from zai import ZhipuAiClient
 
 # # 初始化客户端
 # client = ZhipuAiClient(api_key="YOUR_API_KEY")
